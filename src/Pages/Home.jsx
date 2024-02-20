@@ -1,12 +1,21 @@
 import React from "react";
 import Header from "../components/Header";
 import BooksContent from "../components/BooksContent";
+import { IoIosCall } from "react-icons/io";
+import { SiMinutemailer } from "react-icons/si";
 
 const Home = () => {
   return (
-    <div className="bg-slate-100">
-      <Header />
-      <BooksContent />
+    <div>
+      <h1 className="flex items-center text-sm bg-black text-purple-100 justify-center tracking-wide ">
+        LibarayHub is world best Libaray || Since : 1957{" "}
+        <IoIosCall className="mx-2" /> +8801 6830 61686{" "}
+        <SiMinutemailer className="mx-2 " /> support@libarayhub.com
+      </h1>
+      <div className="bg-slate-100">
+        <Header />
+        <BooksContent />
+      </div>
     </div>
   );
 };
