@@ -4,9 +4,8 @@ import BooksContent from "../components/BooksContent";
 
 const Home = () => {
   return (
-    <div>
+    <div className="bg-slate-100">
       <Header />
-
       <BooksContent />
     </div>
   );

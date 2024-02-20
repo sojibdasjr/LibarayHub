@@ -4,7 +4,7 @@
     "book_name": "The Great Gatsby",
     "cover_image": "https://i.ibb.co/dP5Xf4T/The-Great-Gatsby-Cover-1925-Retouched.jpg",
     "author_name": "F. Scott Fitzgerald",
-
+    "publish": "12. 02. 1986",
     "small_description": "A novel depicting the luxurious lives of wealthy New Yorkers during the Jazz Age.",
     "price": 12,
     "credit": 4
@@ -14,7 +14,7 @@
     "book_name": "To Kill a Mockingbird",
     "cover_image": "https://i.ibb.co/PY7gtHv/To-Kill-a-Mockingbird-first-edition-cover.jpg",
     "author_name": "Harper Lee",
-
+    "publish": "11. 04. 1989",
     "small_description": "A story set in the American South during the 1930s, addressing racial injustice.",
     "price": 15,
     "credit": 5
@@ -24,7 +24,7 @@
     "book_name": "1984",
     "cover_image": "https://i.ibb.co/6yQv7JK/1984-first-edition-cover.jpg",
     "author_name": "George Orwell",
-
+    "publish": "12. 02. 1986",
     "small_description": "A dystopian novel depicting a totalitarian regime and surveillance society.",
     "price": 10,
     "credit": 3
@@ -34,7 +34,7 @@
     "book_name": "Pride and Prejudice",
     "cover_image": "https://i.ibb.co/xmdvJRK/Pride-And-Prejudice-Title-Page.jpg",
     "author_name": "Jane Austen",
-
+    "publish": "12. 02. 1986",
     "small_description": "A romantic novel revolving around the lives of the Bennet sisters in rural England.",
     "price": 18,
     "credit": 6
@@ -44,7 +44,7 @@
     "book_name": "The Catcher in the Rye",
     "cover_image": "https://i.ibb.co/4dF6k73/The-Catcher-in-the-Rye-1951-first-edition-cover.jpg",
     "author_name": "J.D. Salinger",
-
+    "publish": "12. 02. 1986",
     "small_description": "A coming-of-age novel narrated by a teenager named Holden Caulfield.",
     "price": 14,
     "credit": 4
@@ -54,7 +54,7 @@
     "book_name": "Harry Potter and the Sorcerer's Stone",
     "cover_image": "https://i.ibb.co/GQRnX67/Harry-Potter-and-the-Philosopher-s-Stone-banner.jpg",
     "author_name": "J.K. Rowling",
-
+    "publish": "12. 02. 1986",
     "small_description": "The first installment in the Harry Potter series, following the journey of a young wizard.",
     "price": 20,
     "credit": 7
@@ -64,7 +64,7 @@
     "book_name": "The Hobbit",
     "cover_image": "https://i.ibb.co/VVFqtbF/The-Hobbit-trilogy-dvd-cover.jpg",
     "author_name": "J.R.R. Tolkien",
-
+    "publish": "12. 02. 1986",
     "small_description": "A fantasy novel following the adventures of Bilbo Baggins, a hobbit.",
     "price": 16,
     "credit": 5
@@ -74,7 +74,7 @@
     "book_name": "The Lord of the Rings",
     "cover_image": "https://i.ibb.co/qjLWtPN/The-Lord-of-the-Rings.jpg",
     "author_name": "J.R.R. Tolkien",
-
+    "publish": "12. 02. 1986",
     "small_description": "An epic fantasy trilogy set in the fictional world of Middle-earth.",
     "price": 25,
     "credit": 8
@@ -84,7 +84,7 @@
     "book_name": "Brave New World",
     "cover_image": "https://i.ibb.co/rHq775M/Brave-New-World.jpg",
     "author_name": "Aldous Huxley",
-
+    "publish": "12. 02. 1986",
     "small_description": "A dystopian novel portraying a futuristic society characterized by extreme technological advancements and conformity.",
     "price": 12,
     "credit": 4
@@ -94,7 +94,7 @@
     "book_name": "The Da Vinci Code",
     "cover_image": "https://i.ibb.co/42FnyNY/The-Da-Vinci-Code.jpg",
     "author_name": "Dan Brown",
-
+    "publish": "12. 02. 1986",
     "small_description": "A thriller novel featuring symbologist Robert Langdon, uncovering ancient secrets.",
     "price": 22,
     "credit": 6
@@ -104,7 +104,7 @@
     "book_name": "Moby-Dick",
     "cover_image": "https://i.ibb.co/cyr15jp/Moby-Dick.jpg",
     "author_name": "Herman Melville",
-
+    "publish": "12. 02. 1986",
     "small_description": "A novel depicting Captain Ahab's obsessive quest for revenge on a giant white sperm whale.",
     "price": 20,
     "credit": 7
@@ -114,7 +114,7 @@
     "book_name": "Wuthering Heights",
     "cover_image": "https://i.ibb.co/THjjPGY/Wuthering-Heights.jpg",
     "author_name": "Emily Brontë",
-
+    "publish": "12. 02. 1986",
     "small_description": "A passionate and tragic tale of love and revenge between Catherine Earnshaw and Heathcliff.",
     "price": 18,
     "credit": 6
@@ -124,7 +124,7 @@
     "book_name": "War and Peace",
     "cover_image": "https://i.ibb.co/1btP3hN/War-and-Peace.jpg",
     "author_name": "Leo Tolstoy",
-
+    "publish": "12. 02. 1986",
     "small_description": "An epic novel exploring the lives of several Russian aristocratic families during the Napoleonic Wars.",
     "price": 28,
     "credit": 9
@@ -134,7 +134,7 @@
     "book_name": "The Adventures of Sherlock Holmes",
     "cover_image": "https://i.ibb.co/Qmr1Nbq/The-Adventures-of-Sherlock-Holmes.jpg",
     "author_name": "Arthur Conan Doyle",
-
+    "publish": "12. 02. 1986",
     "small_description": "A collection of detective stories featuring the brilliant Sherlock Holmes and his loyal friend Dr. John Watson.",
     "price": 16,
     "credit": 5
@@ -144,7 +144,7 @@
     "book_name": "The Odyssey",
     "cover_image": "https://i.ibb.co/ZYbCz9t/The-Odyssey.jpg",
     "author_name": "Homer",
-
+    "publish": "12. 02. 1986",
     "small_description": "An ancient Greek epic poem attributed to Homer, telling the story of Odysseus's journey home after the Trojan War.",
     "price": 14,
     "credit": 4
@@ -154,7 +154,7 @@
     "book_name": "Crime and Punishment",
     "cover_image": "https://i.ibb.co/9NvVL9p/Crime-and-Punishment.png",
     "author_name": "Fyodor Dostoevsky",
-
+    "publish": "12. 02. 1986",
     "small_description": "A psychological novel exploring the moral dilemmas and inner turmoil of the main character, Raskolnikov.",
     "price": 20,
     "credit": 7
@@ -164,7 +164,7 @@
     "book_name": "The Picture of Dorian Gray",
     "cover_image": "https://i.ibb.co/jLP0x5w/The-Picture-of-Dorian-Gray.jpg",
     "author_name": "Oscar Wilde",
-
+    "publish": "12. 02. 1986",
     "small_description": "A philosophical novel about a young man named Dorian Gray, who remains youthful while a portrait of him ages.",
     "price": 18,
     "credit": 6
@@ -174,7 +174,7 @@
     "book_name": "Frankenstein",
     "cover_image": "https://i.ibb.co/sPLJ5J4/Frankenstein.jpg",
     "author_name": "Mary Shelley",
-
+    "publish": "02. 02. 1976",
     "small_description": "A Gothic novel exploring themes of creation, identity, and the consequences of scientific experimentation.",
     "price": 16,
     "credit": 5
@@ -184,7 +184,7 @@
     "book_name": "Gone with the Wind",
     "cover_image": "https://i.ibb.co/MScgyJX/Gone-with-the-Wind.jpg",
     "author_name": "Margaret Mitchell",
-
+    "publish": "22. 12. 1986",
     "small_description": "A historical novel set against the backdrop of the American Civil War and Reconstruction era.",
     "price": 24,
     "credit": 8
@@ -194,7 +194,7 @@
     "book_name": "The Count of Monte Cristo",
     "cover_image": "https://i.ibb.co/pXNhdzP/The-Count-of-Monte-Cristo.jpg",
     "author_name": "Alexandre Dumas",
-
+    "publish": "22. 02. 1996",
     "small_description": "An adventure novel depicting the story of Edmond Dantès, who seeks revenge against those who wronged him.",
     "price": 22,
     "credit": 7

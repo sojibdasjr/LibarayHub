@@ -9,7 +9,7 @@ const BooksContent = () => {
       .then((data) => setAllBooks(data));
   }, []);
   return (
-    <div>
+    <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4  gap-4 max-w-7xl mx-auto mt-2">
       {allBooks.map((books) => (
         <SingleBookBox key={books.id} books={books} />
       ))}
