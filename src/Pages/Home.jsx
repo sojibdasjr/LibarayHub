@@ -8,9 +8,9 @@ const Home = () => {
   return (
     <div>
       <h1 className="flex items-center text-sm bg-black text-purple-100 justify-center tracking-wide ">
-        LibarayHub is world best Libaray || Since : 1957{" "}
+        LibraryHub is world best Library || Since : 1957{" "}
         <IoIosCall className="mx-2" /> +8801 6830 61686{" "}
-        <SiMinutemailer className="mx-2 " /> support@libarayhub.com
+        <SiMinutemailer className="mx-2 " /> support@Libraryhub.com
       </h1>
       <div className="bg-slate-100">
         <Header />

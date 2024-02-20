@@ -7,7 +7,7 @@ const Header = () => {
       <div className="md:flex md:max-w-7xl md:mx-auto justify-between py-4 ">
         <h1 className="text-3xl">
           <span className="bg-purple-400  p-2 font-bold rounded-s-lg">
-            Libaray
+            Library
           </span>
           <span className="bg-black font-bold p-2 rounded-e-lg text-purple-700">
             Hub
