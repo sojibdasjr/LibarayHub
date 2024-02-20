@@ -10,9 +10,9 @@ const Header = () => {
             Hub
           </span>
         </h1>
-        <h1 className=" bg-red-400 p-2 rounded-md cursor-pointer text-yellow-200 font-bold ">
-          Login
-        </h1>
+        <button className=" bg-red-400 p-2 rounded-md  text-white font-bold ">
+          Cart
+        </button>
       </div>
     </div>
   );
